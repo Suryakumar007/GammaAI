@@ -1,0 +1,15 @@
+$primary-color:#010101;
+$font-color:#E0DEF4;
+
+body{
+    background: $primary-color;
+}
+
+h3{
+    color: $font-color;
+}
+
+p{
+    color: $font-color;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
